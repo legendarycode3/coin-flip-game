@@ -6,3 +6,4 @@ In this game, you will get to flip a coin that i programmed to have a 50% chance
 In this game, you get to flip a coin that i programmed to have a 60%
 chance of coming up heads. You can bet any amount of money in your
 balance (but not more) on heads or tails on each flip. If your balance
+goes to $0, it's game over. </br>
